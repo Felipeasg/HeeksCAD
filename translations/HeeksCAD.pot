@@ -1,0 +1,3665 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: ../src/Constraint.cpp:460
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-08 09:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/AboutBox.cpp:17 ../interface/HDialogs.cpp:28
+msgid "OK"
+msgstr ""
+
+#: ../src/advprops.cpp:497
+msgid "Point Size"
+msgstr ""
+
+#: ../src/advprops.cpp:499
+msgid "Family"
+msgstr ""
+
+#: ../src/advprops.cpp:509
+msgid "Face Name"
+msgstr ""
+
+#: ../src/advprops.cpp:516
+msgid "Style"
+msgstr ""
+
+#: ../src/advprops.cpp:519 ../src/HSpline.cpp:247
+msgid "Weight"
+msgstr ""
+
+#: ../src/advprops.cpp:522
+msgid "Underlined"
+msgstr ""
+
+#: ../src/advprops.cpp:1329
+msgid "files"
+msgstr ""
+
+#: ../src/advprops.cpp:1337 ../src/props.cpp:1509
+msgid "All files"
+msgstr ""
+
+#: ../src/advprops.cpp:1589
+msgid "Make a selection:"
+msgstr ""
+
+#: ../src/AutoSave.cpp:15
+msgid ".HeeksCAD_Backup_Data_File.heeks"
+msgstr ""
+
+#: ../src/AutoSave.cpp:29
+msgid "Do you want to recover using the automatic backup file?"
+msgstr ""
+
+#: ../src/Cone.cpp:170
+msgid "Stretched Cone"
+msgstr ""
+
+#: ../src/Cone.cpp:175
+msgid "r1"
+msgstr ""
+
+#: ../src/Cone.cpp:176
+msgid "r2"
+msgstr ""
+
+#: ../src/Cone.cpp:177 ../src/Cylinder.cpp:81 ../src/RuledSurface.cpp:197
+#: ../src/SketchTools.cpp:115 ../src/SketchTools.cpp:129
+msgid "height"
+msgstr ""
+
+#: ../src/Cone.cpp:215
+msgid "can not enter negative value for radius"
+msgstr ""
+
+#: ../src/Cone.cpp:222
+msgid "cone must not have both radiuses the same"
+msgstr ""
+
+#: ../src/Constraint.cpp:216
+msgid "H"
+msgstr ""
+
+#: ../src/Constraint.cpp:220
+msgid "V"
+msgstr ""
+
+#: ../src/Constraint.cpp:230
+msgid "L"
+msgstr ""
+
+#: ../src/Constraint.cpp:233
+msgid "P"
+msgstr ""
+
+#: ../src/Constraint.cpp:304
+msgid ""
+"\n"
+" obj1_id should be defined before obj2_id"
+msgstr ""
+
+#: ../src/Constraint.cpp:312 ../src/Constraint.cpp:332
+msgid ""
+"\n"
+"obj1_id specified but does not exist in memory"
+msgstr ""
+
+#: ../src/Constraint.cpp:317
+msgid ""
+"\n"
+"obj2_id specified but does not exist in memory"
+msgstr ""
+
+#: ../src/Constraint.cpp:355
+msgid ""
+"\n"
+" Two objects required for this constraint only one was specified"
+msgstr ""
+
+#: ../src/Constraint.cpp:367
+msgid ""
+"\n"
+" A constraint type needs to be added to the list"
+msgstr ""
+
+#: ../src/Constraint.cpp:378
+msgid "This is a woops and you shouldn't be reading this message"
+msgstr ""
+
+#: ../src/Constraint.cpp:471
+msgid "Object error in a single object constraint"
+msgstr ""
+
+#: ../src/Constraint.cpp:489
+msgid "Object error in a two object constraint"
+msgstr ""
+
+#: ../src/Constraint.cpp:496
+msgid "Undefined Constraint?"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:33
+msgid "Set Perpendicular"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:35
+msgid "Set these lines to be perpendicular"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:57
+msgid "Toggle Tangent"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:59
+msgid "Set line tangent to arc"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:79
+msgid "Set Parallel"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:81
+msgid "Set these lines to be parallel"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:100
+msgid "Set Equal Length"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:102
+msgid "Set these lines to be equal length"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:121
+msgid "Set Colinear"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:123
+msgid "Set these lines to be colinear"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:142
+msgid "Set Equal Radius"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:144
+msgid "Set these arcs to have equal radii"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:163
+msgid "Set Concentric"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:165
+msgid "Set these arcs to be concentric"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:185
+msgid "Set Coincident"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:187
+msgid "Set these points to be coincident"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:209 ../src/ConstraintTools.cpp:253
+#: ../src/ConstraintTools.cpp:268 ../src/HeeksFrame.cpp:1695
+msgid "Add Dimension"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:211 ../src/ConstraintTools.cpp:255
+#: ../src/ConstraintTools.cpp:270
+msgid "Add a dimension object"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:237
+msgid "Add Angular Dimension"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:239
+msgid "Add an angular dimension object"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:292
+msgid "Set Point On Line"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:294
+msgid "Set this point on line"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:316 ../src/ConstraintTools.cpp:340
+msgid "Set Point On Midpoint"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:318
+msgid "Set this point on the midpoint of line"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:342
+msgid "Set this point on the midpoint of arc"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:364
+msgid "Set Point On Arc"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:366
+msgid "Set this point on arc"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:388
+msgid "Set Point On Circle"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:390
+msgid "Set this point on circle"
+msgstr ""
+
+#: ../src/ConstraintTools.cpp:405 ../src/ConstraintTools.cpp:407
+msgid "Run Test"
+msgstr ""
+
+#: ../src/ConversionTools.cpp:374
+msgid "Cannot convert object type "
+msgstr ""
+
+#: ../src/ConversionTools.cpp:374
+msgid " to edge"
+msgstr ""
+
+#: ../src/ConversionTools.cpp:383 ../src/ConversionTools.cpp:420
+msgid "Error converting sketch to face"
+msgstr ""
+
+#: ../src/ConversionTools.cpp:425
+msgid "Fatal Error converting sketch to face"
+msgstr ""
+
+#: ../src/ConversionTools.cpp:823
+msgid "Test Face, Sketches United"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1260
+msgid "Set position and orientation by picking 3 points"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1274
+msgid "Set this coordinate system as the active one"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1298
+msgid "Transform selected items to world coordinates"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1318 ../src/CoordinateSystem.cpp:1512
+#: ../src/HPoint.cpp:132
+msgid "position"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1319
+msgid "x axis"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1320
+msgid "y axis"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1322 ../src/CoordinateSystem.cpp:1514
+msgid "Vertical Angle"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1323 ../src/CoordinateSystem.cpp:1515
+msgid "Horizontal Angle"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1324 ../src/CoordinateSystem.cpp:1516
+msgid "Twist Angle"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1575 ../src/CoordinateSystem.cpp:1600
+msgid "Pick the location"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1577
+msgid "Pick a point on the x-axis"
+msgstr ""
+
+#: ../src/CoordinateSystem.cpp:1579
+msgid "Pick a point where y > 0"
+msgstr ""
+
+#: ../src/Cuboid.cpp:92
+msgid "Stretched Cuboid"
+msgstr ""
+
+#: ../src/Cuboid.cpp:97
+msgid "width ( x )"
+msgstr ""
+
+#: ../src/Cuboid.cpp:98
+msgid "height( y )"
+msgstr ""
+
+#: ../src/Cuboid.cpp:99
+msgid "depth ( z )"
+msgstr ""
+
+#: ../src/Cylinder.cpp:75
+msgid "Stretched Cylinder"
+msgstr ""
+
+#: ../src/Cylinder.cpp:80
+msgid "diameter"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:54 ../src/HArc.cpp:389 ../src/HeeksCAD.cpp:3121
+#: ../src/HILine.cpp:120 ../src/HLine.cpp:278
+msgid "end"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:57 ../src/HeeksCAD.cpp:3122
+msgid "intersection"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:60 ../src/HeeksCAD.cpp:3124
+msgid "midpoint"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:63 ../src/HArc.cpp:390 ../src/HCircle.cpp:214
+#: ../src/HeeksCAD.cpp:3123 ../src/HEllipse.cpp:278 ../src/Sphere.cpp:82
+msgid "centre"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:66 ../src/HeeksCAD.cpp:3128
+msgid "screen"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:69 ../src/HeeksCAD.cpp:3125
+msgid "nearest"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:72 ../src/HeeksCAD.cpp:3126
+msgid "tangent"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:85
+msgid "Digitize Mode"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:93 ../src/SelectMode.cpp:93
+msgid "Press Esc key to cancel"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:95
+msgid "Left button to accept position"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:429 ../src/Input.cpp:120 ../src/Input.cpp:148
+msgid "X"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:430 ../src/Input.cpp:121 ../src/Input.cpp:149
+msgid "Y"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:431 ../src/Input.cpp:122 ../src/Input.cpp:150
+msgid "Z"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:441
+msgid "Offset (from last point)"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:453
+msgid "Error! The 'Stop Picking' button shouldn't have been available!"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:456
+msgid "Stop Picking"
+msgstr ""
+
+#: ../src/DigitizeMode.cpp:458
+msgid "Finish picking"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:114 ../src/HDimension.cpp:429
+msgid "between two points"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:115 ../src/HDimension.cpp:430
+msgid "between two points, XY only"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:116 ../src/HDimension.cpp:431
+msgid "orthogonal"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:118 ../src/HDimension.cpp:432
+msgid "mode"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:121 ../src/HAngularDimension.cpp:374
+#: ../src/HDimension.cpp:435
+msgid "pythagorean"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:122 ../src/HAngularDimension.cpp:375
+#: ../src/HDimension.cpp:436
+msgid "horizontal"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:123 ../src/HAngularDimension.cpp:376
+#: ../src/HDimension.cpp:437
+msgid "vertical"
+msgstr ""
+
+#: ../src/DimensionDrawing.cpp:124 ../src/HAngularDimension.cpp:377
+#: ../src/HDimension.cpp:438
+msgid "text mode"
+msgstr ""
+
+#: ../src/Drawing.cpp:173
+msgid "Stop drawing"
+msgstr ""
+
+#: ../src/Drawing.cpp:175
+msgid "Finish drawing"
+msgstr ""
+
+#: ../src/Drawing.cpp:191
+msgid "Add point"
+msgstr ""
+
+#: ../src/Drawing.cpp:193
+msgid "Add a point to drawing"
+msgstr ""
+
+#: ../src/Drawing.cpp:208
+msgid "Get Position"
+msgstr ""
+
+#: ../src/Drawing.cpp:210
+msgid "Pick position without adding to the drawing"
+msgstr ""
+
+#: ../src/Drawing.cpp:266
+msgid "set_draw_step"
+msgstr ""
+
+#: ../src/Drawing.cpp:286
+msgid "set_position"
+msgstr ""
+
+#: ../src/Edge.cpp:151
+msgid "Blend edge"
+msgstr ""
+
+#: ../src/Edge.cpp:157 ../src/HeeksFrame.cpp:902
+msgid "Enter Blend Radius"
+msgstr ""
+
+#: ../src/Edge.cpp:157 ../src/HeeksFrame.cpp:902
+msgid "Radius"
+msgstr ""
+
+#: ../src/Edge.cpp:171 ../src/HeeksFrame.cpp:1743
+msgid "Chamfer"
+msgstr ""
+
+#: ../src/Edge.cpp:177
+msgid "Enter Chamfer Distance"
+msgstr ""
+
+#: ../src/Edge.cpp:177 ../src/HeeksFrame.cpp:918 ../src/Sketch.cpp:345
+msgid "Distance"
+msgstr ""
+
+#: ../src/Edge.cpp:192
+msgid "Make a sketch from edge"
+msgstr ""
+
+#: ../src/Edge.cpp:224
+msgid "Solid with edge chamfer"
+msgstr ""
+
+#: ../src/Edge.cpp:231 ../src/Shape.cpp:703 ../src/Shape.cpp:714
+msgid "Solid with edge blend"
+msgstr ""
+
+#: ../src/Edge.cpp:238 ../src/Shape.cpp:720
+msgid "Error making fillet"
+msgstr ""
+
+#: ../src/Edge.cpp:242
+msgid "A fatal error happened during Chamfer"
+msgstr ""
+
+#: ../src/Edge.cpp:242 ../src/Shape.cpp:724
+msgid "A fatal error happened during Blend"
+msgstr ""
+
+#: ../src/Edge.cpp:248 ../src/HArc.cpp:393 ../src/Ruler.cpp:332
+msgid "length"
+msgstr ""
+
+#: ../src/Face.cpp:199
+msgid "surface type"
+msgstr ""
+
+#: ../src/Face.cpp:220
+msgid "Make Coordinate System"
+msgstr ""
+
+#: ../src/Face.cpp:233 ../src/Face.cpp:260
+msgid "Face Coordinate System"
+msgstr ""
+
+#: ../src/Face.cpp:247
+msgid "Sketch On Face"
+msgstr ""
+
+#: ../src/Face.cpp:279
+msgid "Extrude Face"
+msgstr ""
+
+#: ../src/Face.cpp:293
+msgid "Rotate to Face"
+msgstr ""
+
+#: ../src/Face.cpp:449 ../src/LineArcDrawing.cpp:674
+msgid "unknown"
+msgstr ""
+
+#: ../src/Face.cpp:453
+msgid "plane"
+msgstr ""
+
+#: ../src/Face.cpp:457
+msgid "cylinder"
+msgstr ""
+
+#: ../src/Face.cpp:461
+msgid "cone"
+msgstr ""
+
+#: ../src/Face.cpp:465
+msgid "sphere"
+msgstr ""
+
+#: ../src/Face.cpp:469
+msgid "torus"
+msgstr ""
+
+#: ../src/Face.cpp:473
+msgid "bezier"
+msgstr ""
+
+#: ../src/Face.cpp:477
+msgid "bspline"
+msgstr ""
+
+#: ../src/Face.cpp:481
+msgid "revolution"
+msgstr ""
+
+#: ../src/Face.cpp:485
+msgid "extrusion"
+msgstr ""
+
+#: ../src/Face.cpp:489
+msgid "offset"
+msgstr ""
+
+#: ../src/Face.cpp:682
+msgid "Error in CFace::GetNurbSurfaceParams"
+msgstr ""
+
+#: ../src/FaceTools.cpp:66 ../src/FaceTools.cpp:71 ../src/FaceTools.cpp:76
+msgid "Error in GetFaceNormalAtUV"
+msgstr ""
+
+#: ../src/Group.cpp:13 ../src/HeeksCAD.cpp:4560 ../src/ConversionTools.h:75
+#: ../src/Group.h:24
+msgid "Group"
+msgstr ""
+
+#: ../src/Group.cpp:240
+msgid "custom grippers"
+msgstr ""
+
+#: ../src/Group.cpp:244
+msgid "custom grippers just one axis"
+msgstr ""
+
+#: ../src/Group.cpp:247
+msgid "datum"
+msgstr ""
+
+#: ../src/Group.cpp:249 ../src/PropertiesCanvas.cpp:161
+#: ../src/PropertiesCanvas.cpp:193
+msgid "x"
+msgstr ""
+
+#: ../src/Group.cpp:251 ../src/PropertiesCanvas.cpp:164
+#: ../src/PropertiesCanvas.cpp:196
+msgid "y"
+msgstr ""
+
+#: ../src/Group.cpp:253 ../src/PropertiesCanvas.cpp:169
+#: ../src/PropertiesCanvas.cpp:199
+msgid "z"
+msgstr ""
+
+#: ../src/Group.cpp:295
+msgid "Move datum"
+msgstr ""
+
+#: ../src/Group.cpp:303
+msgid "Move px"
+msgstr ""
+
+#: ../src/Group.cpp:308
+msgid "Move py"
+msgstr ""
+
+#: ../src/Group.cpp:313
+msgid "Move pz"
+msgstr ""
+
+#: ../src/HAngularDimension.cpp:288 ../src/HDimension.cpp:256
+msgid "Toggle Dimension Constraint"
+msgstr ""
+
+#: ../src/HAngularDimension.cpp:290 ../src/HDimension.cpp:258
+msgid "Set this dimension as constrained"
+msgstr ""
+
+#: ../src/HAngularDimension.cpp:373
+msgid "string"
+msgstr ""
+
+#: ../src/HAngularDimension.cpp:379 ../src/HDimension.cpp:440
+msgid "scale"
+msgstr ""
+
+#: ../src/HArc.cpp:108
+msgid "Toggle Radius"
+msgstr ""
+
+#: ../src/HArc.cpp:110
+msgid "Set this arcs radius as constrained"
+msgstr ""
+
+#: ../src/HArc.cpp:131
+msgid "Click centre point"
+msgstr ""
+
+#: ../src/HArc.cpp:153
+msgid "Click first end point"
+msgstr ""
+
+#: ../src/HArc.cpp:175
+msgid "Click second end point"
+msgstr ""
+
+#: ../src/HArc.cpp:388 ../src/HILine.cpp:119 ../src/HLine.cpp:277
+msgid "start"
+msgstr ""
+
+#: ../src/HArc.cpp:391 ../src/HCircle.cpp:215 ../src/HEllipse.cpp:279
+msgid "axis"
+msgstr ""
+
+#: ../src/HArc.cpp:395 ../src/HArc.cpp:397 ../src/HCircle.cpp:216
+#: ../src/LineArcDrawing.cpp:772 ../src/RegularShapesDrawing.cpp:516
+#: ../src/RegularShapesDrawing.cpp:517 ../src/Sphere.cpp:83
+msgid "radius"
+msgstr ""
+
+#: ../src/HCircle.cpp:904 ../src/Sketch.cpp:415
+msgid "Click midpoint"
+msgstr ""
+
+#: ../src/HCircle.cpp:929 ../src/Sketch.cpp:440
+msgid "Click centre-top point"
+msgstr ""
+
+#: ../src/HCircle.cpp:953 ../src/Sketch.cpp:464
+msgid "Click centre-bottom point"
+msgstr ""
+
+#: ../src/HCircle.cpp:977 ../src/Sketch.cpp:488
+msgid "Click centre-right point"
+msgstr ""
+
+#: ../src/HCircle.cpp:1001 ../src/Sketch.cpp:512
+msgid "Click centre-left point"
+msgstr ""
+
+#: ../src/HDimension.cpp:95 ../src/HDimension.cpp:446 ../src/HeeksCAD.cpp:3100
+#: ../src/Ruler.cpp:325
+msgid "mm"
+msgstr ""
+
+#: ../src/HDimension.cpp:96 ../src/HeeksCAD.cpp:3101 ../src/Ruler.cpp:326
+msgid "inch"
+msgstr ""
+
+#: ../src/HDimension.cpp:426 ../src/HText.cpp:190
+msgid "orientation"
+msgstr ""
+
+#: ../src/HDimension.cpp:444 ../src/Ruler.cpp:322
+msgid "use view units"
+msgstr ""
+
+#: ../src/HDimension.cpp:445
+msgid "inches"
+msgstr ""
+
+#: ../src/HDimension.cpp:447 ../src/HeeksCAD.cpp:3104 ../src/Ruler.cpp:329
+msgid "units"
+msgstr ""
+
+#: ../src/HDimension.cpp:452 ../src/HDimension.cpp:454
+msgid "dimension value"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:164 ../src/HeeksCAD.cpp:707
+msgid "Untitled"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1106
+msgid ""
+"OpenCascade failures occured during DXF read processing.  Would you like to "
+"import again and ignore the errors?"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1106
+msgid "DXF Read"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1120
+msgid "OpenCascade failure occured during DXF read processing"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1128
+msgid "Select how the file is to be interpreted"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1129
+msgid "RS274X file interpretation"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1133
+msgid "Produce trace isolation sketches"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1134
+msgid "Produce trace centre-line sketches"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1135
+msgid "Produce mirrored trace isolation sketches"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1136
+msgid "Produce mirrored trace centre-line sketches"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1214 ../src/HeeksFrame.cpp:1815
+msgid "Open file"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1226 ../src/HeeksCAD.cpp:1296 ../src/HeeksCAD.cpp:1733
+msgid "Invalid file type chosen"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1226 ../src/HeeksCAD.cpp:1296 ../src/HeeksCAD.cpp:1733
+msgid "expecting"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1425 ../src/HeeksCAD.cpp:1490 ../src/HeeksCAD.cpp:1520
+#: ../src/HeeksCAD.cpp:1548
+msgid "couldn't open file"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:1692
+msgid "Save graphical data file"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2034
+msgid "Exit Full Screen Mode"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2035
+msgid "Show Full Screen"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2069
+msgid "Move here"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2069
+msgid "Copy here"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2103
+msgid "Set world coordinate system active"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2155
+msgid "Add points at intersections"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:2998 ../src/SelectMode.cpp:89
+msgid "view options"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3002
+msgid "stay upright"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3003
+msgid "free"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3004
+msgid "rotate mode"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3008
+msgid "none"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3009
+msgid "input mode title"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3010
+msgid "full help"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3011 ../src/SelectMode.cpp:89
+msgid "screen text"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3013
+msgid "antialiasing"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3015
+msgid "fixed light"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3017
+msgid "reverse mouse wheel"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3018
+msgid "reverse zooming mode"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3019
+msgid "Ctrl key does rotate"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3020
+msgid "show datum"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3021
+msgid "datum is solid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3022
+msgid "datum size"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3023
+msgid "datum size is pixels not mm"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3024
+msgid "show ruler"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3027
+msgid "single color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3028
+msgid "top color and bottom color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3029
+msgid "left color and right color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3030
+msgid "four corner colors"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3031
+msgid "sky and ground"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3032
+msgid "background mode"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3037
+msgid "background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3041
+msgid "top background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3042
+msgid "bottom background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3046
+msgid "left background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3047
+msgid "right background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3051
+msgid "top left background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3052
+msgid "bottom left background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3053
+msgid "top right background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3054
+msgid "bottom right background color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3058
+msgid "sky top color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3059
+msgid "sky middle color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3060
+msgid "sky bottom color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3061
+msgid "ground top color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3062
+msgid "ground middle color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3063
+msgid "ground bottom color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3069
+msgid "no grid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3070
+msgid "faint color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3071
+msgid "alpha blending"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3072
+msgid "colored alpha blending"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3073
+msgid "grid mode"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3075
+msgid "face selection color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3076
+msgid "perspective"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3095
+msgid "tool icon size"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3106
+msgid "flat on screen dimension text"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3107
+msgid "Allow OpenGL stippling"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3110
+msgid "faces and edges"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3111
+msgid "edges only"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3112
+msgid "faces only"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3113
+msgid "solid view mode"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3115
+msgid "input uses modal dialog"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3116
+msgid "dragging moves objects"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3120
+msgid "digitizing"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3127
+msgid "coordinates"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3129
+msgid "grid size"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3130
+msgid "snap to grid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3132
+msgid "autosolve constraints"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3136
+msgid "correlation"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3137
+msgid ""
+"Minimum correlation factor (0.0 (nothing like it) -> 1.0 (perfect match))"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3138
+msgid ""
+"Maximum scale threshold (1.0 - must be same size, 1.5 (can be half as big "
+"again or 2/3 size)"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3139
+msgid "Number of sample points"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3140
+msgid "Correlate by color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3143
+msgid "drawing"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3144
+msgid "current color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3145
+msgid "construction color"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3146
+msgid "geometry tolerance"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3147
+msgid "face to sketch deviaton"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3148
+msgid "Use old solid fuse ( to prevent coplanar faces )"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3149 ../src/RuledSurface.cpp:202
+msgid "Extrude makes a solid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3150
+msgid "Solid revolution angle"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3161
+msgid "selection filter"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3162
+msgid "point"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3163
+msgid "line"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3164
+msgid "arc"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3165 ../src/LineArcDrawing.cpp:751
+msgid "infinite line"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3166
+msgid "circle"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3167
+msgid "edge"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3168
+msgid "face"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3169
+msgid "vertex"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3170
+msgid "solid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3171
+msgid "stl_solid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3172
+msgid "wire"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3173
+msgid "sketch"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3174
+msgid "image"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3175
+msgid "coordinate system"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3176
+msgid "text"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3177
+msgid "dimension"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3178
+msgid "ruler"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3179
+msgid "pad"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3180
+msgid "part"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3181
+msgid "pocket"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3184
+msgid "file options"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3185
+msgid "DXF"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3186
+msgid "make sketch"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3187
+msgid "ignore errors where possible"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3188
+msgid "Layer Name Suffixes To Discard"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3191
+msgid "STL"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3192
+msgid "stl save facet tolerance"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3194
+msgid "auto save interval (in minutes)"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3196
+msgid "save constraints to file"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3201
+msgid "font options"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3202
+msgid "Paths (semicolon delimited)"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3203
+msgid "Word Space Percentage"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3204
+msgid "Character Space Percentage"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3207
+msgid "logging"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3210
+msgid "FatalError"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3211
+msgid "Error"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3212
+msgid "Warning"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3213
+msgid "Message"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3214
+msgid "Status"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3215
+msgid "Info"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3216
+msgid "Debug"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3217
+msgid "Trace"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3219
+msgid "log level"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3221
+msgid "use repetition counting"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3222
+msgid "use timestamps"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282 ../src/HeeksCAD.cpp:3287
+msgid "Known Files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282 ../src/HeeksCAD.cpp:3287
+msgid "Heeks files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282 ../src/HeeksCAD.cpp:3287 ../src/SolidTools.cpp:57
+msgid "IGES files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282 ../src/HeeksCAD.cpp:3287 ../src/SolidTools.cpp:57
+msgid "STEP files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282 ../src/HeeksCAD.cpp:3287 ../src/SolidTools.cpp:57
+msgid "STL files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282
+msgid "Scalar Vector Graphics files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282 ../src/HeeksCAD.cpp:3287
+msgid "DXF files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282
+msgid "RX274X/Gerber files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3282
+msgid "Picture files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3287 ../src/SolidTools.cpp:57
+msgid "CPP files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3287 ../src/SolidTools.cpp:57
+msgid "OpenCAMLib python files"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3331
+msgid "Unmark"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3334 ../src/HeeksCAD.cpp:3340
+msgid "Mark"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3338 ../src/HeeksFrame.cpp:152
+#: ../src/HeeksFrame.cpp:1765 ../src/HeeksFrame.cpp:1973
+msgid "Properties"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:3769
+msgid "Save changes to file"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4536 ../interface/HeeksObj.h:136
+msgid "Unknown"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4537
+msgid "Document"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4538 ../src/HPoint.h:35
+msgid "Point"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4539 ../src/HLine.h:26
+msgid "Line"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4540 ../src/HArc.h:36
+msgid "Arc"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4541
+msgid "ILine"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4542 ../src/HCircle.h:34
+msgid "Circle"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4543 ../src/Gripper.h:23
+msgid "Gripper"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4544 ../src/Vertex.h:33
+msgid "Vertex"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4545 ../src/Edge.h:54
+msgid "Edge"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4546 ../src/Face.h:44
+msgid "Face"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4547
+msgid "Loop"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4548 ../src/DynamicSolid.h:23 ../src/Solid.h:26
+#: ../interface/HeeksCADInterface.cpp:2025
+msgid "Solid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4549
+msgid "StlSolid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4550 ../src/Wire.h:14
+msgid "Wire"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4551 ../src/Sketch.cpp:41 ../src/Sketch.h:43
+msgid "Sketch"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4552 ../src/HImage.h:42
+msgid "Image"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4553
+msgid "CoordinateSystem"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4554 ../src/HText.h:32
+msgid "Text"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4555 ../src/HAngularDimension.h:54
+#: ../src/HDimension.h:64
+msgid "Dimension"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4556 ../src/Ruler.h:50
+msgid "Ruler"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4557 ../src/HXml.h:18
+msgid "Xml"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4558 ../src/HEllipse.h:43
+msgid "Ellipse"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4559 ../src/HSpline.h:45
+msgid "Spline"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4561
+msgid "CorrelationTool"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4563 ../src/Constraint.h:66
+msgid "Constraint"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4565 ../src/Pad.h:17
+msgid "Pad"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4566 ../src/Part.h:15
+msgid "Part"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4567
+msgid "PocketSolid"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4568
+msgid "AngularDimension"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4569
+msgid "OrientationModifier"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4570
+msgid "Hole"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4571 ../src/Hole.h:21
+msgid "Positions"
+msgstr ""
+
+#: ../src/HeeksCAD.cpp:4572
+msgid "ObjectMaximum"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:104
+msgid "Trace Log"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:148 ../src/HeeksFrame.cpp:1969
+msgid "Graphics"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:149 ../src/HeeksFrame.cpp:1761
+#: ../src/HeeksFrame.cpp:1970
+msgid "Objects"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:150 ../src/HeeksFrame.cpp:1763
+#: ../src/HeeksFrame.cpp:1971
+msgid "Options"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:151 ../src/HeeksFrame.cpp:1764
+#: ../src/HeeksFrame.cpp:1972
+msgid "Input"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:202
+msgid "Reset Layout"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:203
+msgid "Set toolbars to left"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:575
+msgid "Pick three or more points to be splined"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:575 ../src/HeeksFrame.cpp:1692
+#: ../src/HeeksFrame.cpp:1856
+msgid "Spline Through Points"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:707 ../src/HeeksFrame.cpp:724
+#: ../src/CoordinateSystem.h:32 ../interface/HeeksCADInterface.cpp:532
+msgid "Coordinate System"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:761
+msgid "Import file"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:873
+msgid ""
+"Pick two or more faces or solids, the first one will be cut by the others"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:873
+msgid "Subtract Solids"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:881
+msgid "Pick two or more solids to be fused together"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:881
+msgid "Fuse Solids"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:889
+msgid ""
+"Pick two or more solids, only the shape that is contained by all of them "
+"will remain"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:889
+msgid "Intersection of Solids"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:898
+msgid "Pick one or more edges to add a fillet to"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:898
+msgid "Edge Fillet"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:914
+msgid "Pick one or more edges to add a chamfer to"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:914
+msgid "Edge Chamfer"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:918
+msgid "Enter chamfer distance"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:935
+msgid "Pick two or more sketches, to create a lofted solid between"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:935 ../src/HeeksFrame.cpp:943
+#: ../src/HeeksFrame.cpp:951
+msgid "hold down Ctrl key to select more than one solid"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:935
+msgid "Lofted Body"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:943
+msgid ""
+"Pick one or more sketches, faces or circles, to create an extruded body from"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:943 ../src/HeeksFrame.cpp:951
+msgid "Extrude"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:951
+msgid ""
+"Pick one or more sketches, faces or circles, to create a revolved body from"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:977 ../src/Sphere.h:25
+msgid "Sphere"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:984 ../src/Cuboid.h:28
+msgid "Cuboid"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:991 ../src/HLine.cpp:88 ../src/Cylinder.h:25
+msgid "Cylinder"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:998 ../src/HLine.cpp:102 ../src/Cone.h:29
+msgid "Cone"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1552
+msgid ""
+"There was a problem printing.\n"
+"Perhaps your current printer is not set correctly?"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1552 ../src/HeeksFrame.cpp:1554
+msgid "Printing"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1554
+msgid "You canceled printing"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1573
+msgid ""
+"There was a problem previewing.\n"
+"Perhaps your current printer is not set correctly?"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1573
+msgid "Previewing"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1577
+msgid "Demo Print Preview"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1650
+msgid "New\tCtrl+N"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1651
+msgid "Open\tCtrl+O"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1652
+msgid "Save\tCtrl+S"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1653
+msgid "Save As"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1655
+msgid "Print\tCtrl+P"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1656
+msgid "Page Setup"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1657
+msgid "Print Preview"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1660
+msgid "Open Recent"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1661
+msgid "Import"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1662
+msgid "About"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1664
+msgid "Plugins"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1666
+msgid "Save Settings"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1668
+msgid "Exit\tCtrl+Q"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1673
+msgid "Undo\tCtrl+Z"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1674
+msgid "Redo\tCtrl+Shift+Z"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1677
+msgid "Cut\tCtrl+X"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1678
+msgid "Copy\tCtrl+C"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1679
+msgid "Paste\tCtrl+V"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1680 ../src/Plugins.cpp:149
+msgid "Delete"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1682 ../src/HeeksFrame.cpp:1824
+#: ../src/SelectMode.cpp:63
+msgid "Select Mode"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1686 ../src/HeeksFrame.cpp:1835
+msgid "Draw a sketch"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1688
+msgid "Draw Ellipses"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1689
+msgid "Draw Infinite Lines"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1690
+msgid "Draw Points"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1691 ../src/HGear.h:36
+msgid "Gear"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1694
+msgid "Add Text"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1701
+msgid "Pick 3 points"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1703
+msgid "Pick 1 point"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1707
+msgid "Previous view"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1709
+msgid "Zoom window"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1710
+msgid "Fit view to extents"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1711
+msgid "Fit view to extents, but no rotation"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1712 ../src/HeeksFrame.cpp:1938
+msgid "View XY Front"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1713 ../src/HeeksFrame.cpp:1939
+msgid "View XY Back"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1714 ../src/HeeksFrame.cpp:1940
+msgid "View XZ Top"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1715 ../src/HeeksFrame.cpp:1941
+msgid "View XZ Bottom"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1716 ../src/HeeksFrame.cpp:1942
+msgid "View YZ Right"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1717 ../src/HeeksFrame.cpp:1943
+msgid "View YZ Left"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1718
+msgid "View XZY Isometric"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1720
+msgid "View rotate"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1721
+msgid "View zoom"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1722
+msgid "View pan"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1723
+msgid "Full screen"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1725 ../src/HeeksFrame.cpp:1956
+msgid "Redraw"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1729 ../src/HeeksFrame.cpp:1889
+msgid "Add a sphere"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1730 ../src/HeeksFrame.cpp:1890
+msgid "Add a cube"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1731 ../src/HeeksFrame.cpp:1891
+msgid "Add a cylinder"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1732 ../src/HeeksFrame.cpp:1892
+msgid "Add a cone"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1734
+msgid "Loft two sketches"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1735
+msgid "Extrude a sketch"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1736
+msgid "Revolve a sketch"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1738
+msgid "Cut"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1739
+msgid "Fuse"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1740
+msgid "Common"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1742
+msgid "Fillet"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1744
+msgid "Sectioning"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1748
+msgid "Move Translate"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1749
+msgid "Copy Translate"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1751
+msgid "Move Rotate"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1752
+msgid "Copy Rotate"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1754
+msgid "Move Mirror"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1755
+msgid "Copy Mirror"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1757
+msgid "Move Scale"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1762
+msgid "Log"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1766
+msgid "Tool Bar"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1767
+msgid "Solids Tool Bar"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1768
+msgid "Geometry Tool Bar"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1769
+msgid "Viewing Tool Bar"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1770
+msgid "Transformations Tool Bar"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1774
+msgid "Validate Constraints"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1781
+msgid "&File"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1782
+msgid "&Edit"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1783
+msgid "&View"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1784
+msgid "&Geometry"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1785
+msgid "&Solid"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1786
+msgid "&Set Origin"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1787
+msgid "&Transform"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1788
+msgid "&Window"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1792
+msgid "&Constraint Tester"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1814
+msgid "New file"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1816
+msgid "Save file"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1817
+msgid "Cut selected items to the clipboard"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1818
+msgid "Copy selected items to the clipboard"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1819
+msgid "Paste items from the clipboard"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1821
+msgid "Undo the previous command"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1822
+msgid "Redo the next command"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1827 ../src/HeeksFrame.cpp:1974
+msgid "General Tools"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1836
+msgid "Start drawing rectangles"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1837
+msgid "Start drawing obrounds"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1838
+msgid "Start drawing polygons"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1839
+msgid "Add a gear"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1845
+msgid "Draw circles through 3 points"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1846
+msgid "Draw circles, centre and point"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1847
+msgid "Draw circles, centre and radius"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1848
+msgid "Draw ellipses"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1854
+msgid "Start Drawing Infinite Lines"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1855
+msgid "Start Drawing Points"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1862
+msgid "Add a text object"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1863
+msgid "Add a dimension"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1864
+msgid "Add Coordinate System"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1870
+msgid "Translate selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1871
+msgid "Copy and translate selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1872
+msgid "Rotate selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1873
+msgid "Copy and rotate selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1874
+msgid "Mirror selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1875
+msgid "Copy and mirror selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1876
+msgid "Scale selected items"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1881 ../src/HeeksFrame.cpp:1975
+msgid "Geometry Tools"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1898
+msgid "Create a lofted face"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1899
+msgid "Extrude a wire or face"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1900
+msgid "Revolve a wire or face"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1906
+msgid "Cut one solid from another"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1907
+msgid "Fuse one solid to another"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1908
+msgid "Find common solid between two solids"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1914
+msgid "Make a fillet on selected edges"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1915
+msgid "Make a chamfer on selected edges"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1920 ../src/HeeksFrame.cpp:1976
+msgid "Solid Tools"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1928
+msgid "Zoom in to fit the extents of the drawing into the graphics window"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1929
+msgid ""
+"Zoom in to fit the extents of the drawing into the graphics window, but "
+"without rotating the view"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1930
+msgid "Zoom in to a dragged window"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1931
+msgid "Go back to previous view"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1932
+msgid "Switch to full screen view ( press escape to return )"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1944
+msgid "View XY Isometric"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1950
+msgid "Enter view rotating mode"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1951
+msgid "Drag to zoom in and out"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1952
+msgid "Drag to move view"
+msgstr ""
+
+#: ../src/HeeksFrame.cpp:1959 ../src/HeeksFrame.cpp:1977
+msgid "Viewing Tools"
+msgstr ""
+
+#: ../src/HEllipse.cpp:280
+msgid "major radius"
+msgstr ""
+
+#: ../src/HEllipse.cpp:281
+msgid "minor radius"
+msgstr ""
+
+#: ../src/HEllipse.cpp:282
+msgid "rotation"
+msgstr ""
+
+#: ../src/HEllipse.cpp:283
+msgid "start angle"
+msgstr ""
+
+#: ../src/HEllipse.cpp:284
+msgid "end angle"
+msgstr ""
+
+#: ../src/HGear.cpp:429
+msgid "num teeth"
+msgstr ""
+
+#: ../src/HGear.cpp:430
+msgid "module"
+msgstr ""
+
+#: ../src/HGear.cpp:431
+msgid "clearance"
+msgstr ""
+
+#: ../src/HGear.cpp:432
+msgid "addendum offset"
+msgstr ""
+
+#: ../src/HGear.cpp:433
+msgid "addendum multiplier"
+msgstr ""
+
+#: ../src/HGear.cpp:434
+msgid "dedendum multiplier"
+msgstr ""
+
+#: ../src/HGear.cpp:435
+msgid "pressure angle"
+msgstr ""
+
+#: ../src/HGear.cpp:436
+msgid "spacing"
+msgstr ""
+
+#: ../src/HGear.cpp:437
+msgid "tip relief"
+msgstr ""
+
+#: ../src/HGear.cpp:438
+msgid "depth"
+msgstr ""
+
+#: ../src/HGear.cpp:439
+msgid "cone half angle"
+msgstr ""
+
+#: ../src/HGear.cpp:440
+msgid "inner ring diameter"
+msgstr ""
+
+#: ../src/HGear.cpp:513
+msgid "Make Sketches"
+msgstr ""
+
+#: ../src/HGear.cpp:522
+msgid "Make One Tooth Sketches"
+msgstr ""
+
+#: ../src/HILine.cpp:122 ../src/HLine.cpp:281 ../src/HLine.cpp:283
+msgid "Length"
+msgstr ""
+
+#: ../src/HImage.cpp:155
+msgid "Picture - "
+msgstr ""
+
+#: ../src/HLine.cpp:51
+msgid "Toggle Horizontal"
+msgstr ""
+
+#: ../src/HLine.cpp:53
+msgid "Set this line to be horizontal"
+msgstr ""
+
+#: ../src/HLine.cpp:64
+msgid "Toggle Vertical"
+msgstr ""
+
+#: ../src/HLine.cpp:66
+msgid "Set this line to be vertical"
+msgstr ""
+
+#: ../src/HLine.cpp:77
+msgid "Toggle Line Length"
+msgstr ""
+
+#: ../src/HLine.cpp:79
+msgid "Set this lines length as constrained"
+msgstr ""
+
+#: ../src/HLine.cpp:93
+msgid "Make Cylinder On Line"
+msgstr ""
+
+#: ../src/HLine.cpp:107
+msgid "Make Cone On Line"
+msgstr ""
+
+#: ../src/HLine.cpp:125
+msgid "Click Midpoint On Line"
+msgstr ""
+
+#: ../src/HLine.cpp:141
+msgid "Click Start Of Line"
+msgstr ""
+
+#: ../src/HLine.cpp:157
+msgid "Click End Of Line"
+msgstr ""
+
+#: ../src/HPoint.cpp:147
+msgid "Toggle Fixed"
+msgstr ""
+
+#: ../src/HPoint.cpp:149
+msgid "Set this point as fixed"
+msgstr ""
+
+#: ../src/HPoint.cpp:166 ../src/HPoint.cpp:168
+msgid "Click point location"
+msgstr ""
+
+#: ../src/HPoint.cpp:182
+msgid "Enter offset in X,Y,Z format (with commas between them)"
+msgstr ""
+
+#: ../src/HPoint.cpp:183
+msgid "Apply Offset To Selected Location"
+msgstr ""
+
+#: ../src/HPoint.cpp:222 ../src/HPoint.cpp:224
+msgid "Offset from point"
+msgstr ""
+
+#: ../src/HSpline.cpp:234
+msgid "Knot"
+msgstr ""
+
+#: ../src/HSpline.cpp:245
+msgid "Pole"
+msgstr ""
+
+#: ../src/HText.cpp:201
+msgid "OpenGL (default) font"
+msgstr ""
+
+#: ../src/HText.cpp:213
+msgid "Font"
+msgstr ""
+
+#: ../src/HText.cpp:311
+msgid "Only a single orientation modifier is supported"
+msgstr ""
+
+#: ../src/HText.cpp:343
+msgid "Make a Sketch"
+msgstr ""
+
+#: ../src/HText.cpp:345
+msgid "Convert the lines and arcs that make up this text into a sketch object."
+msgstr ""
+
+#: ../src/HText.cpp:359
+msgid "Add Orientation Modifier"
+msgstr ""
+
+#: ../src/HText.cpp:361
+msgid "Add graphics to orient text"
+msgstr ""
+
+#: ../src/Input.cpp:108 ../src/TransformTools.cpp:56
+#: ../src/TransformTools.cpp:314
+msgid "number of copies"
+msgstr ""
+
+#: ../src/Input.cpp:118 ../src/Input.cpp:119
+msgid "Position to rotate about"
+msgstr ""
+
+#: ../src/Input.cpp:119 ../src/Input.cpp:123
+msgid "Select"
+msgstr ""
+
+#: ../src/Input.cpp:147
+msgid "Axis to rotate about"
+msgstr ""
+
+#: ../src/Input.cpp:151
+msgid "Select a line"
+msgstr ""
+
+#: ../src/Input.cpp:179 ../src/RuledSurface.cpp:270
+msgid "angle"
+msgstr ""
+
+#: ../src/Input.cpp:336
+msgid "Pick Position"
+msgstr ""
+
+#: ../src/Input.cpp:369
+msgid "Pick line for rotation axis"
+msgstr ""
+
+#: ../src/InputModeCanvas.cpp:75
+msgid "Input Mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:67
+msgid "set previous direction"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:562
+msgid "Line drawing mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:564 ../src/LineArcDrawing.cpp:571
+#: ../src/LineArcDrawing.cpp:608 ../src/LineArcDrawing.cpp:616
+#: ../src/LineArcDrawing.cpp:623
+msgid "click on start point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:565
+msgid "click on end of line"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:569
+msgid "Arc drawing mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:572
+msgid "click on end of arc"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:576
+msgid "Infinite line drawing"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:578 ../src/LineArcDrawing.cpp:650
+#: ../src/LineArcDrawing.cpp:659
+msgid "click on first point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:579 ../src/LineArcDrawing.cpp:651
+#: ../src/LineArcDrawing.cpp:660
+msgid "click on second point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:583
+msgid "Ellipse drawing mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:586
+msgid "center and 2 points mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:588 ../src/LineArcDrawing.cpp:642
+msgid "click on center point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:591
+msgid "click on point on ellipse"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:593
+msgid "(colinear or orthogonal to axis)"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:595
+msgid "click on another point on ellipse"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:601
+msgid "Spline drawing mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:606
+msgid "cubic spline mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:609 ../src/LineArcDrawing.cpp:617
+msgid "click on end point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:610 ../src/LineArcDrawing.cpp:624
+msgid "click on first control point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:611 ../src/LineArcDrawing.cpp:625
+msgid "click on second control point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:614
+msgid "quartic spline mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:618
+msgid "click on control point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:621
+msgid "rational spline mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:626
+msgid "click on next control point or endpoint"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:634
+msgid "Circle drawing mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:640
+msgid "center and point mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:643
+msgid "click on point on circle"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:648
+msgid "three points mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:652
+msgid "click on third point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:657
+msgid "two points mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:665
+msgid "centre with radius mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:667
+msgid "click on centre point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:749
+msgid "draw lines"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:750
+msgid "draw tangential arcs"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:752
+msgid "draw circles"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:753 ../src/RegularShapesDrawing.cpp:513
+msgid "drawing mode"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:760
+msgid "(press 'a' for arcs)"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:767
+msgid "centre and point"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:768
+msgid "three points"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:769
+msgid "two points"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:770
+msgid "centre and radius"
+msgstr ""
+
+#: ../src/LineArcDrawing.cpp:771
+msgid "circle mode"
+msgstr ""
+
+#: ../src/manager.cpp:1293
+msgid "Categorized Mode"
+msgstr ""
+
+#: ../src/manager.cpp:1294
+msgid "Alphabetic Mode"
+msgstr ""
+
+#: ../src/manager.cpp:1339 ../src/manager.cpp:1737
+msgid "<< Compact"
+msgstr ""
+
+#: ../src/manager.cpp:1339 ../src/manager.cpp:1732
+msgid "Expand >>"
+msgstr ""
+
+#: ../src/MarkedList.cpp:282
+msgid "Number of items selected"
+msgstr ""
+
+#: ../src/MarkedList.cpp:289
+msgid "Delete Marked Items"
+msgstr ""
+
+#: ../src/MarkedList.cpp:298
+msgid "Copy"
+msgstr ""
+
+#: ../src/MarkedList.cpp:300
+msgid "Copies the selected items to the clipboard"
+msgstr ""
+
+#: ../src/MarkedList.cpp:315
+msgid "Paste Into"
+msgstr ""
+
+#: ../src/MarkedList.cpp:315
+msgid "Paste"
+msgstr ""
+
+#: ../src/MarkedList.cpp:317
+msgid "Paste items from the clipboard to the drawing"
+msgstr ""
+
+#: ../src/ObjPropsCanvas.cpp:130 ../interface/DoubleInput.cpp:19
+msgid "Apply"
+msgstr ""
+
+#: ../src/ObjPropsCanvas.cpp:130
+msgid "Apply any changes made to the properties"
+msgstr ""
+
+#: ../src/ObjPropsCanvas.cpp:131 ../src/props.cpp:1853 ../src/props.cpp:2085
+#: ../interface/DoubleInput.cpp:29 ../interface/HDialogs.cpp:30
+msgid "Cancel"
+msgstr ""
+
+#: ../src/ObjPropsCanvas.cpp:131
+msgid "Stop editing the object"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:105
+msgid "Normally spaced"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:107
+msgid "Spacing"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:110
+msgid "Number of Rotations (negative for reverse direction)"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:111
+msgid "Sketch rotates text"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:120 ../src/OrientationModifier.cpp:126
+msgid "Left"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:121
+msgid "Centre"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:122 ../src/OrientationModifier.cpp:127
+msgid "Right"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:128
+msgid "Top"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:129
+msgid "Bottom"
+msgstr ""
+
+#: ../src/OrientationModifier.cpp:132
+msgid "Justification"
+msgstr ""
+
+#: ../src/Pad.cpp:101 ../src/Pocket.cpp:102
+msgid "Height"
+msgstr ""
+
+#: ../src/Plugins.cpp:39
+msgid "Name"
+msgstr ""
+
+#: ../src/Plugins.cpp:43
+msgid "File Path"
+msgstr ""
+
+#: ../src/Plugins.cpp:84
+msgid "Plugin must have a name!"
+msgstr ""
+
+#: ../src/Plugins.cpp:92
+msgid "No file specified!"
+msgstr ""
+
+#: ../src/Plugins.cpp:115
+msgid "shared library files"
+msgstr ""
+
+#: ../src/Plugins.cpp:117
+msgid "Choose shared library file"
+msgstr ""
+
+#: ../src/Plugins.cpp:137
+msgid "HeeksCAD plugin libraries"
+msgstr ""
+
+#: ../src/Plugins.cpp:147
+msgid "New"
+msgstr ""
+
+#: ../src/Plugins.cpp:148
+msgid "Edit"
+msgstr ""
+
+#: ../src/Plugins.cpp:347 ../src/Plugins.cpp:362
+msgid "Add New Plugin"
+msgstr ""
+
+#: ../src/PropertiesCanvas.cpp:202
+msgid "vertical angle"
+msgstr ""
+
+#: ../src/PropertiesCanvas.cpp:205
+msgid "horizontal angle"
+msgstr ""
+
+#: ../src/PropertiesCanvas.cpp:208
+msgid "twist angle"
+msgstr ""
+
+#: ../src/propgrid.cpp:635 ../src/props.cpp:569
+msgid "False"
+msgstr ""
+
+#: ../src/propgrid.cpp:636 ../src/props.cpp:570
+msgid "True"
+msgstr ""
+
+#: ../src/propgrid.cpp:637 ../src/props.cpp:571
+msgid "Unspecified"
+msgstr ""
+
+#: ../src/props.cpp:480
+msgid "is not a floating-point number"
+msgstr ""
+
+#: ../src/props.cpp:581 ../src/props.cpp:602
+msgid "true"
+msgstr ""
+
+#: ../src/props.cpp:582
+msgid "false"
+msgstr ""
+
+#: ../src/props.cpp:1470
+msgid "Choose a directory:"
+msgstr ""
+
+#: ../src/props.cpp:1685
+msgid "Choose a file"
+msgstr ""
+
+#: ../src/props.cpp:1851 ../src/props.cpp:2083
+msgid "Ok"
+msgstr ""
+
+#: ../src/props.cpp:2029
+msgid "Add"
+msgstr ""
+
+#: ../src/props.cpp:2057
+msgid "Update"
+msgstr ""
+
+#: ../src/props.cpp:2060
+msgid "Remove"
+msgstr ""
+
+#: ../src/props.cpp:2063
+msgid "Up"
+msgstr ""
+
+#: ../src/props.cpp:2066
+msgid "Down"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:493
+msgid "Rectangle drawing"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:496
+msgid "Polygon drawing"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:499
+msgid "Obround drawing"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:502
+msgid "Regular shapes drawing"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:509
+msgid "draw rectangles"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:510
+msgid "draw polygons"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:511
+msgid "draw slots"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:520
+msgid "number of sides for polygon"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:523
+msgid "excribed circle"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:524
+msgid "inscribed circle"
+msgstr ""
+
+#: ../src/RegularShapesDrawing.cpp:525
+msgid "polygon mode"
+msgstr ""
+
+#: ../src/RS274X.cpp:190
+msgid "pcb"
+msgstr ""
+
+#: ../src/RS274X.cpp:190
+msgid "_width_"
+msgstr ""
+
+#: ../src/RS274X.cpp:190
+msgid "_height_"
+msgstr ""
+
+#: ../src/RS274X.cpp:2601
+msgid ""
+"# This file converts the RAW image file generated by the HeeksCAD import of\n"
+msgstr ""
+
+#: ../src/RS274X.cpp:2602
+msgid ""
+"# a GERBER format data file into a GIF format file.   This just makes it\n"
+msgstr ""
+
+#: ../src/RS274X.cpp:2603
+msgid ""
+"# more convenient for viewing\n"
+"\n"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:22
+msgid "pick some sketches"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:52 ../src/RuledSurface.cpp:183
+msgid "Ruled Surface"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:108
+msgid "Revolved Solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:108
+msgid "Extruded Solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:137
+msgid "Pipe"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:142
+msgid "Error making pipe"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:192
+msgid "Make extrusion"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:212
+msgid "taper outward angle"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:234 ../src/RuledSurface.cpp:298
+msgid "pick sketches, faces or circles"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:265
+msgid "Input revolution angle"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:275
+msgid "Makes a solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:329
+msgid "Error making ruled solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:334
+msgid "Fatal error making ruled solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:387
+msgid "Error making extruded solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:391
+msgid "Fatal error making extruded solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:418
+msgid "Error making revolved solid"
+msgstr ""
+
+#: ../src/RuledSurface.cpp:422
+msgid "Fatal error making revolved solid"
+msgstr ""
+
+#: ../src/Ruler.cpp:280
+msgid "ResetRuler"
+msgstr ""
+
+#: ../src/Ruler.cpp:282
+msgid "Reset the ruler"
+msgstr ""
+
+#: ../src/Ruler.cpp:331
+msgid "width"
+msgstr ""
+
+#: ../src/Ruler.cpp:333
+msgid "empty_length"
+msgstr ""
+
+#: ../src/Sectioning.cpp:57
+msgid "Points must not be the same!"
+msgstr ""
+
+#: ../src/Sectioning.cpp:447
+msgid "Sectioned Solid"
+msgstr ""
+
+#: ../src/Sectioning.cpp:455
+msgid "Sectioning failed!"
+msgstr ""
+
+#: ../src/Sectioning.cpp:469
+msgid "Pick point on axis"
+msgstr ""
+
+#: ../src/Sectioning.cpp:477
+msgid "Pick secondary point on axis"
+msgstr ""
+
+#: ../src/Sectioning.cpp:486
+msgid "Pick objects to section"
+msgstr ""
+
+#: ../src/SelectMode.cpp:70
+msgid "Left button for selecting objects"
+msgstr ""
+
+#: ../src/SelectMode.cpp:71
+msgid "( with Ctrl key for extra objects)"
+msgstr ""
+
+#: ../src/SelectMode.cpp:72
+msgid "( with Shift key for similar objects)"
+msgstr ""
+
+#: ../src/SelectMode.cpp:73
+msgid "Drag with left button to window select"
+msgstr ""
+
+#: ../src/SelectMode.cpp:75
+msgid "or to move object if on an object"
+msgstr ""
+
+#: ../src/SelectMode.cpp:76
+msgid "Mouse wheel to zoom in and out"
+msgstr ""
+
+#: ../src/SelectMode.cpp:79
+msgid "Middle button to pan view"
+msgstr ""
+
+#: ../src/SelectMode.cpp:80
+msgid "( with Ctrl key to rotate view )"
+msgstr ""
+
+#: ../src/SelectMode.cpp:83
+msgid "Middle button to rotate view"
+msgstr ""
+
+#: ../src/SelectMode.cpp:84
+msgid "( with Ctrl key to pan view )"
+msgstr ""
+
+#: ../src/SelectMode.cpp:87
+msgid "Right button for object menu"
+msgstr ""
+
+#: ../src/SelectMode.cpp:88
+msgid "See options window to hide this help"
+msgstr ""
+
+#: ../src/SelectMode.cpp:94
+msgid "Press Return key to accept selection"
+msgstr ""
+
+#: ../src/SelectMode.cpp:551
+msgid "Accept selection"
+msgstr ""
+
+#: ../src/SelectMode.cpp:570
+msgid "Cancel selection"
+msgstr ""
+
+#: ../src/SelectMode.cpp:582
+msgid "Pick Anything"
+msgstr ""
+
+#: ../src/SelectMode.cpp:584
+msgid "Set the selection filter to all items"
+msgstr ""
+
+#: ../src/SelectMode.cpp:595
+msgid "Pick Edges"
+msgstr ""
+
+#: ../src/SelectMode.cpp:597
+msgid "Set the selection filter to only edges"
+msgstr ""
+
+#: ../src/SelectMode.cpp:608
+msgid "Pick Faces"
+msgstr ""
+
+#: ../src/SelectMode.cpp:610
+msgid "Set the selection filter to only faces"
+msgstr ""
+
+#: ../src/SelectMode.cpp:621
+msgid "End Sketch Mode"
+msgstr ""
+
+#: ../src/Shape.cpp:265
+msgid "Enter Offset Value, + for making bigger, - for making smaller"
+msgstr ""
+
+#: ../src/Shape.cpp:265
+msgid "Offset value"
+msgstr ""
+
+#: ../src/Shape.cpp:277
+msgid "Result of 'Offset Shape'"
+msgstr ""
+
+#: ../src/Shape.cpp:284 ../src/Sketch.cpp:359 ../src/Wire.cpp:60
+msgid "Error making offset"
+msgstr ""
+
+#: ../src/Shape.cpp:288
+msgid "Offset Shape"
+msgstr ""
+
+#: ../src/Shape.cpp:308
+msgid "Stretched Shape"
+msgstr ""
+
+#: ../src/Shape.cpp:400
+msgid "Error with cut operation"
+msgstr ""
+
+#: ../src/Shape.cpp:413
+msgid "Result of Fuse Operation"
+msgstr ""
+
+#: ../src/Shape.cpp:421
+msgid "Error with fuse operation"
+msgstr ""
+
+#: ../src/Shape.cpp:438
+msgid "Result of Common Operation"
+msgstr ""
+
+#: ../src/Shape.cpp:446
+msgid "Error with common operation"
+msgstr ""
+
+#: ../src/Shape.cpp:597
+msgid "Result of Cut Operation"
+msgstr ""
+
+#: ../src/Shape.cpp:766 ../src/Shape.cpp:776
+msgid "STEP solid"
+msgstr ""
+
+#: ../src/Shape.cpp:782 ../src/Shape.cpp:876
+msgid "STEP import not done!"
+msgstr ""
+
+#: ../src/Shape.cpp:815
+msgid "IGES shape"
+msgstr ""
+
+#: ../src/Shape.cpp:845
+msgid "sewed IGES solid"
+msgstr ""
+
+#: ../src/Shape.cpp:854
+msgid "IGES import not done!"
+msgstr ""
+
+#: ../src/Shape.cpp:872
+msgid "BREP solid"
+msgstr ""
+
+#: ../src/Shape.cpp:1082
+msgid "opacity"
+msgstr ""
+
+#: ../src/Shape.cpp:1088
+msgid "volume"
+msgstr ""
+
+#: ../src/Shape.cpp:1091
+msgid "centre of gravity"
+msgstr ""
+
+#: ../src/Shape.cpp:1095
+msgid "calculate volume"
+msgstr ""
+
+#: ../src/Sketch.cpp:215
+msgid "Number of elements"
+msgstr ""
+
+#: ../src/Sketch.cpp:234
+msgid "order"
+msgstr ""
+
+#: ../src/Sketch.cpp:236
+msgid "solidify"
+msgstr ""
+
+#: ../src/Sketch.cpp:257
+msgid "Split Sketch"
+msgstr ""
+
+#: ../src/Sketch.cpp:280 ../src/ConversionTools.h:23
+msgid "Convert sketch to face"
+msgstr ""
+
+#: ../src/Sketch.cpp:304
+msgid "Convert sketch to wire"
+msgstr ""
+
+#: ../src/Sketch.cpp:343 ../src/Sketch.cpp:348
+msgid "Use negative for smaller and Positive for larger)"
+msgstr ""
+
+#: ../src/Sketch.cpp:344 ../src/Sketch.cpp:348
+msgid "Enter the distance"
+msgstr ""
+
+#: ../src/Sketch.cpp:363
+msgid "Copy Parallel"
+msgstr ""
+
+#: ../src/Sketch.cpp:381 ../src/ConversionTools.h:31
+msgid "Split arcs to little lines"
+msgstr ""
+
+#: ../src/Sketch.cpp:391
+msgid "Enter Sketch Mode"
+msgstr ""
+
+#: ../src/SketchTools.cpp:115
+msgid "Input extrusion height"
+msgstr ""
+
+#: ../src/SketchTools.cpp:120 ../src/SketchTools.cpp:122
+#: ../src/SketchTools.h:94
+msgid "Pad Sketch"
+msgstr ""
+
+#: ../src/SketchTools.cpp:129
+msgid "Input pad depth"
+msgstr ""
+
+#: ../src/SketchTools.cpp:134 ../src/SketchTools.cpp:136
+msgid "Pocket Sketch"
+msgstr ""
+
+#: ../src/SketchTools.cpp:154 ../src/SketchTools.cpp:156
+msgid "Make To Part"
+msgstr ""
+
+#: ../src/SketchTools.cpp:182 ../src/SketchTools.cpp:184
+#: ../src/SketchTools.cpp:274
+msgid "Add To Part"
+msgstr ""
+
+#: ../src/SketchTools.cpp:203
+msgid "Failed to convert sketch to wire"
+msgstr ""
+
+#: ../src/SketchTools.cpp:239
+msgid "Wire fix failed"
+msgstr ""
+
+#: ../src/SketchTools.cpp:248
+msgid "Failed to convert wire to sketch"
+msgstr ""
+
+#: ../src/SketchTools.cpp:266
+msgid "Failed to fix wire"
+msgstr ""
+
+#: ../src/SketchTools.cpp:272
+msgid "Fix Wire"
+msgstr ""
+
+#: ../src/SketchTools.cpp:345
+msgid "simplify sketch options"
+msgstr ""
+
+#: ../src/SketchTools.cpp:346
+msgid "max deviation"
+msgstr ""
+
+#: ../src/SketchTools.cpp:347
+msgid "cleanup tolerance (temporary)"
+msgstr ""
+
+#: ../src/SketchTools.cpp:348
+msgid "bspline min degree (eg: 3)"
+msgstr ""
+
+#: ../src/SketchTools.cpp:349
+msgid "bspline max degree (eg: 8)"
+msgstr ""
+
+#: ../src/SketchTools.cpp:363
+msgid "bspline continuity (eg: GeomAbs_C2)"
+msgstr ""
+
+#: ../src/SketchTools.cpp:373
+msgid "Sort Points"
+msgstr ""
+
+#: ../src/SketchTools.cpp:383
+msgid "Force closed shape"
+msgstr ""
+
+#: ../src/SketchTools.cpp:392
+msgid "fix wire options"
+msgstr ""
+
+#: ../src/SketchTools.cpp:393
+msgid "reorder"
+msgstr ""
+
+#: ../src/SketchTools.cpp:394
+msgid "fix small"
+msgstr ""
+
+#: ../src/SketchTools.cpp:395
+msgid "fix small precision"
+msgstr ""
+
+#: ../src/SketchTools.cpp:396
+msgid "fix self intersection"
+msgstr ""
+
+#: ../src/SketchTools.cpp:397
+msgid "fix lacking"
+msgstr ""
+
+#: ../src/SketchTools.cpp:398
+msgid "fix degenerated"
+msgstr ""
+
+#: ../src/SketchTools.cpp:400
+msgid "modify topology"
+msgstr ""
+
+#: ../src/SketchTools.cpp:401
+msgid "modify geometry"
+msgstr ""
+
+#: ../src/SketchTools.cpp:402
+msgid "closed wire"
+msgstr ""
+
+#: ../src/SketchTools.cpp:403
+msgid "preference pcurve"
+msgstr ""
+
+#: ../src/SketchTools.cpp:404
+msgid "fix gaps by ranges"
+msgstr ""
+
+#: ../src/SketchTools.cpp:893
+msgid "Failed to create BSpline curve"
+msgstr ""
+
+#: ../src/SketchTools.cpp:937
+msgid "Replaced "
+msgstr ""
+
+#: ../src/SolidTools.cpp:57
+msgid "Save solid file"
+msgstr ""
+
+#: ../src/SolidTools.cpp:57
+msgid "Solid Files"
+msgstr ""
+
+#: ../src/SolidTools.cpp:82
+msgid "Invalid solid file type chosen"
+msgstr ""
+
+#: ../src/Sphere.cpp:76
+msgid "Ellipsoid"
+msgstr ""
+
+#: ../src/TransformTool.cpp:21
+msgid "Transform"
+msgstr ""
+
+#: ../src/TransformTool.cpp:44
+msgid "Transform Objects"
+msgstr ""
+
+#: ../src/TransformTools.cpp:41
+msgid "Pick objects to move"
+msgstr ""
+
+#: ../src/TransformTools.cpp:56 ../src/TransformTools.cpp:314
+msgid "Enter number of copies"
+msgstr ""
+
+#: ../src/TransformTools.cpp:66
+msgid "Click position to move from"
+msgstr ""
+
+#: ../src/TransformTools.cpp:81
+msgid "Click position to move to"
+msgstr ""
+
+#: ../src/TransformTools.cpp:142
+msgid "Pick objects to rotate"
+msgstr ""
+
+#: ../src/TransformTools.cpp:229
+msgid "Pick objects to mirror"
+msgstr ""
+
+#: ../src/TransformTools.cpp:248
+msgid "Pick line to mirror about"
+msgstr ""
+
+#: ../src/TransformTools.cpp:299
+msgid "Pick objects to scale"
+msgstr ""
+
+#: ../src/TransformTools.cpp:324
+msgid "Click centre position to scale about"
+msgstr ""
+
+#: ../src/TransformTools.cpp:329
+msgid "Enter scale factor"
+msgstr ""
+
+#: ../src/TransformTools.cpp:329
+msgid "scale factor"
+msgstr ""
+
+#: ../src/ViewPanning.cpp:44 ../src/ViewZooming.cpp:50
+msgid "Drag with the left mouse button"
+msgstr ""
+
+#: ../src/ViewPanning.cpp:55
+msgid "Stop panning"
+msgstr ""
+
+#: ../src/ViewRotating.cpp:60
+msgid "Stop rotating"
+msgstr ""
+
+#: ../src/ViewZooming.cpp:50
+msgid "Forward to zoom in, Back to zoom out"
+msgstr ""
+
+#: ../src/ViewZooming.cpp:50
+msgid "Back to zoom in, Forward to zoom out"
+msgstr ""
+
+#: ../src/ViewZooming.cpp:50
+msgid "Hold middle mouse button down to pan"
+msgstr ""
+
+#: ../src/ViewZooming.cpp:61
+msgid "Stop zooming"
+msgstr ""
+
+#: ../src/Wire.cpp:33
+msgid "Result of Wire Offset"
+msgstr ""
+
+#: ../src/Wire.cpp:35
+msgid "Generated"
+msgstr ""
+
+#: ../src/Wire.cpp:44
+msgid "Generated from edge"
+msgstr ""
+
+#: ../src/Wire.cpp:50
+msgid "Modified"
+msgstr ""
+
+#: ../src/Wire.cpp:53
+msgid "Is Deleted"
+msgstr ""
+
+#: ../src/Wire.cpp:65
+msgid "Offset Wire"
+msgstr ""
+
+#: ../src/wxImageLoader.cpp:22
+msgid "Failed to load resource image from "
+msgstr ""
+
+#: ../src/ConversionTools.h:39 ../src/ConversionTools.h:48
+msgid "Make To Sketch"
+msgstr ""
+
+#: ../src/ConversionTools.h:41
+msgid "Make selected lines and arcs into a new sketch"
+msgstr ""
+
+#: ../src/ConversionTools.h:50
+msgid "Make selected edges into a new sketch"
+msgstr ""
+
+#: ../src/ConversionTools.h:57
+msgid "Combine sketches"
+msgstr ""
+
+#: ../src/ConversionTools.h:59
+msgid "Combine selected sketches"
+msgstr ""
+
+#: ../src/ConversionTools.h:66
+msgid "Unite sketches"
+msgstr ""
+
+#: ../src/ConversionTools.h:68
+msgid "Unite selected sketches"
+msgstr ""
+
+#: ../src/ConversionTools.h:77
+msgid "Group selected items"
+msgstr ""
+
+#: ../src/ConversionTools.h:84
+msgid "Ungroup"
+msgstr ""
+
+#: ../src/ConversionTools.h:86
+msgid "Ungroup selected items"
+msgstr ""
+
+#: ../src/ConversionTools.h:96
+msgid "Transform to Coordinate System"
+msgstr ""
+
+#: ../src/ConversionTools.h:98
+msgid "Transform selected items using two coordinate systems"
+msgstr ""
+
+#: ../src/DimensionDrawing.h:32
+msgid "Dimension drawing"
+msgstr ""
+
+#: ../src/Drawing.h:65
+msgid "Drawing"
+msgstr ""
+
+#: ../src/Face.h:85
+msgid "Make a sketch from face"
+msgstr ""
+
+#: ../src/HILine.h:25
+msgid "Infinite Line"
+msgstr ""
+
+#: ../src/MagDragWindow.h:20
+msgid "Magnifying by dragging a window"
+msgstr ""
+
+#: ../src/MenuSeparator.h:13
+msgid "MenuSeparator"
+msgstr ""
+
+#: ../src/Pocket.h:17
+msgid "Pocket"
+msgstr ""
+
+#: ../src/PointDrawing.h:27
+msgid "Point drawing"
+msgstr ""
+
+#: ../src/PointOrWindow.h:26
+msgid "Dragging a window or picking a point"
+msgstr ""
+
+#: ../src/ShapeTools.h:12
+msgid "Faces"
+msgstr ""
+
+#: ../src/ShapeTools.h:21
+msgid "Edges"
+msgstr ""
+
+#: ../src/ShapeTools.h:30
+msgid "Vertices"
+msgstr ""
+
+#: ../src/SketchTools.h:92
+msgid "Simplify Sketch to Lines"
+msgstr ""
+
+#: ../src/SketchTools.h:101
+msgid "Simplify Sketch to BSplines"
+msgstr ""
+
+#: ../src/SolidTools.h:15
+msgid "Save Solids"
+msgstr ""
+
+#: ../src/StlSolid.h:41
+msgid "STL Solid"
+msgstr ""
+
+#: ../src/ViewPanning.h:12
+msgid "View Pan"
+msgstr ""
+
+#: ../src/ViewRotating.h:15
+msgid "View Rotate"
+msgstr ""
+
+#: ../src/ViewZooming.h:14
+msgid "View Zoom"
+msgstr ""
+
+#: ../src/Window.h:19
+msgid "Dragging a window"
+msgstr ""
+
+#: ../interface/DoubleInput.cpp:21
+msgid "Accept value and continue"
+msgstr ""
+
+#: ../interface/DoubleInput.cpp:31
+msgid "Cancel operation"
+msgstr ""
+
+#: ../interface/HeeksCADInterface.cpp:2023
+msgid "Geometry"
+msgstr ""
+
+#: ../interface/HeeksCADInterface.cpp:2027
+msgid "Set Origin"
+msgstr ""
+
+#: ../interface/HeeksObj.cpp:124
+msgid "object type"
+msgstr ""
+
+#: ../interface/HeeksObj.cpp:125
+msgid "object title"
+msgstr ""
+
+#: ../interface/HeeksObj.cpp:126
+msgid "ID"
+msgstr ""
+
+#: ../interface/HeeksObj.cpp:130
+msgid "color"
+msgstr ""
+
+#: ../interface/HeeksObj.cpp:132
+msgid "visible"
+msgstr ""
+
+#: ../interface/HeeksObj.cpp:311
+msgid "Sketch Pointer == NULL in HeeksObjOccurrenceInSketch"
+msgstr ""
+
+#: ../interface/Property.h:41
+msgid "Unknown Property"
+msgstr ""
